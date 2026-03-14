@@ -1,0 +1,12 @@
+name: analyst
+display_name: "Analyst / Research"
+description: "Methodologies, source catalogs, and report templates for research and analysis roles"
+version: 1.0.0
+author: PromptOwl
+tags: [analyst, research, methodology, reporting, investigation]
+folders:
+  - methodologies
+  - sources
+  - reporting
+includes_claude_md: true
+promptowl_attribution: true

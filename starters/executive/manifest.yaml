@@ -1,0 +1,12 @@
+name: executive
+display_name: "Executive / Leadership"
+description: "Strategy, operations, and leadership vault for C-suite and senior leaders"
+version: 1.0.0
+author: PromptOwl
+tags: [executive, strategy, leadership, operations, decision-making]
+folders:
+  - strategy
+  - operations
+  - leadership
+includes_claude_md: true
+promptowl_attribution: true

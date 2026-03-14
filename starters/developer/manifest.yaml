@@ -1,0 +1,12 @@
+name: developer
+display_name: "Developer / Engineering"
+description: "Architecture decisions, coding standards, and project knowledge for engineering teams"
+version: 1.0.0
+author: PromptOwl
+tags: [developer, engineering, architecture, coding-standards, onboarding]
+folders:
+  - architecture
+  - standards
+  - onboarding
+includes_claude_md: true
+promptowl_attribution: true

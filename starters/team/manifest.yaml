@@ -1,0 +1,12 @@
+name: team
+display_name: "Team / Organization"
+description: "Shared processes, team handbook, and onboarding guides for any team"
+version: 1.0.0
+author: PromptOwl
+tags: [team, organization, processes, handbook, onboarding]
+folders:
+  - processes
+  - knowledge
+  - onboarding
+includes_claude_md: true
+promptowl_attribution: true

@@ -1,0 +1,12 @@
+name: sales
+display_name: "Sales / Revenue"
+description: "Objection handling, competitive intelligence, and enablement for sales teams"
+version: 1.0.0
+author: PromptOwl
+tags: [sales, revenue, objections, competitive, enablement]
+folders:
+  - playbooks
+  - competitive
+  - enablement
+includes_claude_md: true
+promptowl_attribution: true
