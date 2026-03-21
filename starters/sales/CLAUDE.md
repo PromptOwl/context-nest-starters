@@ -41,4 +41,4 @@ You are working with a sales professional who uses this vault to:
 - When updating content, ask: "Did this work in the field? What would you change?"
 
 ---
-Vault powered by [Context Nest](https://github.com/PromptOwl/context-nest) by PromptOwl — promptowl.ai
+Vault powered by [Context Nest](https://github.com/PromptOwl/ContextNest) by PromptOwl — promptowl.ai

@@ -1,6 +1,6 @@
 # Context Nest Starters
 
-> Free starter vaults for [Context Nest](https://github.com/PromptOwl/context-nest) — role-based templates that get you and your AI productive in 30 seconds.
+> Free starter vaults for [Context Nest](https://github.com/PromptOwl/ContextNest) — role-based templates that get you and your AI productive in 30 seconds.
 
 ## What Are Starters?
 
@@ -77,7 +77,7 @@ ctx inject @promptowl/enterprise-sales-playbook
 
 ## Links
 
-- [Context Nest CLI](https://github.com/PromptOwl/context-nest) — the open-source knowledge management system
+- [Context Nest CLI](https://github.com/PromptOwl/ContextNest) — the open-source knowledge management system
 - [PromptOwl](https://promptowl.ai) — the AI operating system for knowledge
 - [Documentation](https://docs.promptowl.ai) — full docs (coming soon)
 

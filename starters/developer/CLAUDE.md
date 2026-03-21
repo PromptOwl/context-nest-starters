@@ -43,4 +43,4 @@ You are working with a developer or engineering team that uses this vault to:
 - Suggest vault improvements when you notice knowledge gaps
 
 ---
-Vault powered by [Context Nest](https://github.com/PromptOwl/context-nest) by PromptOwl — promptowl.ai
+Vault powered by [Context Nest](https://github.com/PromptOwl/ContextNest) by PromptOwl — promptowl.ai

@@ -42,4 +42,4 @@ You are working with an analyst who uses this vault to:
 - Distinguish between findings (factual) and analysis (interpretation)
 
 ---
-Vault powered by [Context Nest](https://github.com/PromptOwl/context-nest) by PromptOwl — promptowl.ai
+Vault powered by [Context Nest](https://github.com/PromptOwl/ContextNest) by PromptOwl — promptowl.ai

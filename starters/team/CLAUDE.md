@@ -42,4 +42,4 @@ You are working with a team that uses this vault to:
 - Suggest updates when you notice content might be outdated
 
 ---
-Vault powered by [Context Nest](https://github.com/PromptOwl/context-nest) by PromptOwl — promptowl.ai
+Vault powered by [Context Nest](https://github.com/PromptOwl/ContextNest) by PromptOwl — promptowl.ai

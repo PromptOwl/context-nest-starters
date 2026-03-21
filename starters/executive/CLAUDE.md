@@ -41,4 +41,4 @@ You are working with a senior leader who uses this vault to:
 - Always ask before creating new documents — suggest first, then create with approval
 
 ---
-Vault powered by [Context Nest](https://github.com/PromptOwl/context-nest) by PromptOwl — promptowl.ai
+Vault powered by [Context Nest](https://github.com/PromptOwl/ContextNest) by PromptOwl — promptowl.ai
