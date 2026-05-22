@@ -1,0 +1,20 @@
+# Motion: onboarding
+#
+# Hydrate this pack on a new contributor's first session. Returns the
+# git flow, commit conventions, code-review checklist, ADR index, and
+# the language conventions for the team's primary stack.
+#
+# Usage:
+#   ctx query "pack:onboarding"
+#   ctx resolve "pack:onboarding"
+#
+# Customize: drop #language tags for languages the team doesn't use,
+# or narrow with #priority:high if you've tagged the must-read subset.
+
+name: onboarding
+description: "First-session context for new contributors — git flow, commit conventions, review checklist, ADRs, and language standards."
+version: 1
+selector: "#convention | #process | #adr | #architecture"
+tags:
+  - "#motion"
+  - "#onboarding"

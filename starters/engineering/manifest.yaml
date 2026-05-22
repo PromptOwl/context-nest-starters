@@ -1,0 +1,27 @@
+name: engineering
+display_name: "Engineering — multi-language, motion-based"
+description: "Opinionated engineering vault: conventions for Python / TypeScript / Go / Rust / Java, plus the cross-cutting process / QA / security / operations content. Packs deliver the right slice of context for the motions teams actually run — PR review, incident response, onboarding."
+version: 1.0.0
+author: PromptOwl
+tags:
+  - engineering
+  - multi-language
+  - conventions
+  - motions
+  - adr
+  - runbook
+  - security
+folders:
+  - languages/python
+  - languages/typescript
+  - languages/go
+  - languages/rust
+  - languages/java
+  - process
+  - qa
+  - security
+  - operations
+  - architecture
+  - defect-prioritization
+includes_claude_md: true
+promptowl_attribution: true
