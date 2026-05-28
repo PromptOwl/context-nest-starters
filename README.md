@@ -19,6 +19,7 @@ No setup. No configuration. Your AI just *knows* your vault from the first conve
 |---------|-------------|-------------|
 | [`executive`](starters/executive/) | C-suite, VPs, senior leaders | Strategy, operations, leadership playbooks |
 | [`developer`](starters/developer/) | Engineers, tech leads | Architecture decisions, coding standards, onboarding |
+| [`engineering`](starters/engineering/) | Engineering teams across Python/TS/Go/Rust/Java | Language conventions, ADRs, runbooks, PR review & incident motions |
 | [`analyst`](starters/analyst/) | Research, security, compliance analysts | Methodologies, source catalogs, report templates |
 | [`sales`](starters/sales/) | Sales reps, AEs, sales leaders | Objection handling, battlecards, enablement |
 | [`team`](starters/team/) | Any team that shares knowledge | Processes, handbooks, onboarding guides |
