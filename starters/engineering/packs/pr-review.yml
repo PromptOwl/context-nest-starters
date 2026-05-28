@@ -1,0 +1,21 @@
+# Motion: pr-review
+#
+# Hydrate this pack when an agent is reviewing or generating a PR.
+# Returns: code-review checklist, PR template, commit conventions, and
+# every language convention so the agent can apply the right slice for
+# the languages of touched files.
+#
+# Usage:
+#   ctx query "pack:pr-review"
+#   ctx resolve "pack:pr-review"
+#
+# Customize: edit the selector below to add #language-specific tags
+# matching your team's stack, or narrow #convention if your packs grow.
+
+name: pr-review
+description: "Conventions and process docs the agent needs when reviewing or generating a pull request."
+version: 1
+selector: "#convention + #process | #code-review | #pr"
+tags:
+  - "#motion"
+  - "#pr-review"

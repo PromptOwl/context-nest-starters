@@ -1,0 +1,21 @@
+# Motion: incident-response
+#
+# Hydrate this pack at the start of an incident. Returns the IR
+# template, rollback procedure, severity classification, and on-call
+# rotation — everything the agent needs to help the IC coordinate.
+#
+# Usage:
+#   ctx query "pack:incident-response"
+#   ctx resolve "pack:incident-response"
+#
+# Customize: extend the selector with #service:<name> when service-
+# specific runbooks accumulate, so the agent only pulls the relevant
+# ones during a given incident.
+
+name: incident-response
+description: "Runbooks and policies the agent needs during an active incident — IR template, rollback, severity, on-call."
+version: 1
+selector: "#runbook + #operations | #severity | #incident"
+tags:
+  - "#motion"
+  - "#incident-response"
