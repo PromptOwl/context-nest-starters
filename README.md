@@ -28,7 +28,7 @@ No setup. No configuration. Your AI just *knows* your vault from the first conve
 
 ```bash
 # Install Context Nest CLI
-npm install -g contextnest-cli
+npm install -g @promptowl/contextnest-cli
 
 # Initialize a vault with a starter
 ctx init --starter developer
